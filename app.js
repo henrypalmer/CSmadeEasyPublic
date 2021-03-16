@@ -35,7 +35,7 @@ app.post("/", function(req, res) {
 
     const options = {
         method: "POST",
-        auth: "CSmadeEasy:873a830737903d1e1a510e4986564920-us7"
+        auth: "CSmadeEasy:" // API KEY REMOVED TO KEEP FROM BEING DISABLED
     }
     
     const request = https.request(url, options, function(response) {
