@@ -1,0 +1,18 @@
+body {
+    background-color: #393e46;
+    text-align: center;
+}
+.top-section h1{
+    color: #ffd369;
+    font-family: 'Lobster', cursive;
+    padding-top: 5%;
+    font-size: 4rem;
+}
+
+.thank-you {
+    margin: auto;
+    max-width: 50%;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.5rem;
+    color: #9088d4;
+}
